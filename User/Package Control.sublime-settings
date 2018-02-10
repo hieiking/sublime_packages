@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"ConvertToUTF8",
+		"CSScomb",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"Material Theme",
+		"Package Control",
+		"SublimeCodeIntel"
+	]
+}
